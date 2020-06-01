@@ -1,0 +1,11 @@
+{
+  "name": "kiss-auth-fetch",
+  "version": "0.9.0",
+  "description": "Simple module to append Authorization header to fetch requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "peracto",
+  "license": "ISC"
+}
